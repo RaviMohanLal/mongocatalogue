@@ -1,5 +1,5 @@
-[{"Title":"1","Movies":"Big Buck Bunny","Rating":3,"Genre":"shorts"},
-{"Title":"2","Movies":"Cloning a project into netbeans","Rating":4,"Genre":"cassandra"},
-{"Title":"3","Movies":"Installing and starting cassandra on a mac","Rating":3,"Genre":"cassandra"},
-{"Title":"4","Movies":"Running cassandra on a pc","Rating":3,"Genre":"cassandra"},
-{"Title":"5","Movies":"Starting Erlang","Rating":4,"Genre":"erlang"}]
+[{"Title":"fire","Rating":3,"Genre":"shorts","thumbnail": "cloningaprojectintonetbeans.png"},
+{"Title":"forest","Rating":4,"Genre":"cassandra","thumbnail": "cloningaprojectintonetbeans-th.png"},
+{"Title":"galaxy","Rating":3,"Genre":"cassandra","thumbnail":"bbb.png"},
+{"Title":"gym","Rating":3,"Genre":"cassandra","thumbnail":"erlang1-th.png"},
+{"Title":"earth","Rating":4,"Genre":"erlang","thumnbnail": "erlang1.png"}]
